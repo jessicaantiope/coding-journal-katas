@@ -1,2 +1,3 @@
-# coding-journal-katas
+# Coding Journal Katas
 A place to share some of the coding katas I have been working on
+
